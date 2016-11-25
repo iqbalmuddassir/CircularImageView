@@ -1,5 +1,6 @@
 # CircularImageView
 To dispay circular image with border. Also it supports zoom and panning functionality. 
+Special thanks to [Sahil Bajaj](https://github.com/sahilbajaj)
 
 Usage
 ---------
